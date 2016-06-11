@@ -1,1 +1,1 @@
-Hello Class
+var workshop = 'hello!';
